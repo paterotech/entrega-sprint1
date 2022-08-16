@@ -11,6 +11,6 @@
 9. git checkout master  # para cambiar a la rama master
 10. git merge nombre-rama # para fusionar la rama principal con la secundaria
 11. git branch -d nombre-rama  # para eliminar una rama del repo
-12. git remote add origin https://github.com/paterotech/comandos-basicos-git.git # ruta para enviarlo al repositorio github
+12. git remote add origin # ruta para enviarlo al repositorio github
 13. git push origin master  # comando para enviarlo a github y subir últimos cambios
 14. git commit -am "nombre-commit"  # combinación del punto 2 y 4 
