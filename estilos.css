@@ -1,18 +1,17 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: #888;
 }
 
 h1{
     color: rgb(150, 29, 8);
 }
 
-p {
-    font-size: 20px;
+p{
+    font-size: 18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    align-items: center;
 }
 
 img{
     height: 200px;
-    margin-top: 20px;
+    margin-top: 50px;
 }
