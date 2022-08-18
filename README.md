@@ -14,3 +14,4 @@
 12. git remote add origin # ruta para enviarlo al repositorio github
 13. git push origin master  # comando para enviarlo a github y subir últimos cambios
 14. git commit -am "nombre-commit"  # combinación del punto 2 y 4 
+15. git switch "nombre-rama"  # para cambiar a otra rama
